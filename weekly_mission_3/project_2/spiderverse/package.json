@@ -1,0 +1,14 @@
+{
+  "name": "spiderverse",
+  "version": "1.0.0",
+  "description": "proyecto 2 week 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/.bin/jest"
+  },
+  "author": "Harry Gomez",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.0.1"
+  }
+}

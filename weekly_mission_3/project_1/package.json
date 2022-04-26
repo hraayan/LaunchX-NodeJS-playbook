@@ -1,0 +1,14 @@
+{
+  "name": "project_1",
+  "version": "1.0.0",
+  "description": "W_3_P_1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "harry baez",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.0.1"
+  }
+}
